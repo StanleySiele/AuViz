@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="visualizer_bar_width">5dp</dimen>
+    <dimen name="visualizer_bar_spacing">1dp</dimen>
+    <dimen name="visualizer_margin">8dp</dimen>
+</resources>
